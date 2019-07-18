@@ -11,3 +11,5 @@ java -jar jenkins.war --httpPort=9090
 
 5. go to the browser and type localhost:9090
 ![image](https://user-images.githubusercontent.com/40884275/61440666-4b021580-a901-11e9-89d2-7a372982cd39.png)
+
+6. Find password and go to next page.
