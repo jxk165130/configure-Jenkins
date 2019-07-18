@@ -1,4 +1,4 @@
-Jenkin is only compactable with Java 8. (this is for windows)
+jenkins is only compatible with Java 8
 
 1. Download Jenkins.war
 2. Create new folder (EX. Jenkins_Server) and put Jenkins.war file into the folder.
